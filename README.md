@@ -28,4 +28,4 @@ As a Nashville Software School Grad, I have obtained both front-end and back-end
 - 💬 Ask me about my band, my artwork, or my golf handicap.
 - 📫 You can reach me at [jmlashen@gmail.com](@jmlashen@gmail.com)
 - ⚡ Fun fact: I'm a former Pre-K teacher and I have designed album art for artists including Jason Wade of the band Lifehouse. 
-- 🎨 Checkout some of my artwork [here] (https://www.instagram.com/jake_diggity/) on Instagram.
+- 🎨 Checkout some of my artwork [here](https://www.instagram.com/jake_diggity/) on Instagram.

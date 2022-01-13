@@ -2,7 +2,7 @@
 As a Nashville Software School Grad, I have obtained both front-end and back-end skills with a focus in UI/UX and Design. 
 [view resume](https://drive.google.com/file/d/1qWfI4xuKsbo4cv1dX5e9IHmsA8XTs-Q3/view) 
 
-### Skills I Know, but not limited to:
+### Skills I know, but not limited to:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)

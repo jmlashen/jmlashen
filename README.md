@@ -2,6 +2,8 @@
 As a Nashville Software School Grad, I have obtained both front-end and back-end developer skills with a focus in UI/UX and Design. 
 
 [view resume](https://drive.google.com/file/d/1qWfI4xuKsbo4cv1dX5e9IHmsA8XTs-Q3/view) 
+[view portfolio](https://drive.google.com/file/d/1qWfI4xuKsbo4cv1dX5e9IHmsA8XTs-Q3/view)
+[Connect with me on Linkedin!](https://www.linkedin.com/in/jake-lashenik/)
 
 ### Here's some frameworks and tools I know, but not limited to:
 

@@ -25,6 +25,6 @@ As a Nashville Software School Grad, I have obtained both front-end and back-end
 - 👯 I'm currently learning about design systems, responsive design, and best practices for UI/UX. 
 - 🤔 I want to learn more about Supabase and Tailwinds for an upcoming project
 - 💬 Ask me about my band or my golf handicap
-- 📫 You can reach me ![](@jmlashen@gmail.com)
+- 📫 You can reach me at my ![gmail](@jmlashen@gmail.com)
 - ⚡ Fun fact: I have designed album art for artists including Jason Wade of the band Lifehouse
 -->

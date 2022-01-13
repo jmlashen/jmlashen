@@ -1,5 +1,5 @@
-### Hi, I'm Jake and I am proud to be a ![](https://img.shields.io/badge/-Software%20Developer-lightgrey)! 💻🏌️🎸
-### As a Nashville Software School Grad, I have obtained both front-end and back-end skills with a focus in UI/Ux and Design.
+- Hi, I'm Jake and I am proud to be a ![](https://img.shields.io/badge/-Software%20Developer-lightgrey)! 💻🏌️🎸
+### As a Nashville Software School Grad, I have obtained both front-end and back-end skills with a focus in UI/UX and Design.
 
 ### Skills I Know:
 

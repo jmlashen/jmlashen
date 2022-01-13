@@ -7,7 +7,7 @@ As a Nashville Software School Grad, I have obtained both front-end and back-end
 
 - Connect with me on [LinkedIn!](https://www.linkedin.com/in/jake-lashenik/)
 
-### Here's some frameworks and tools I know, but not limited to:
+### Here's some frameworks and tools I know:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -22,10 +22,9 @@ As a Nashville Software School Grad, I have obtained both front-end and back-end
 
 - 🔭 I'm currently working client-side Capstone Project.
 - 🌱 We just finished our group project creating a website for our Cohort
-- 👯 I'm currently learning about design systems, responsive design, and 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I'm currently learning about design systems, responsive design, and best practices for UI/UX. 
+- 🤔 I want to learn more about Supabase and Tailwinds for an upcoming project
+- 💬 Ask me about my band or my golf handicap
+- 📫 You can reach me ![jmlashen@gmail.com](@jmlashen@gmail.com)
+- ⚡ Fun fact: I have designed album art for artists including Jason Wade of the band Lifehouse
 -->

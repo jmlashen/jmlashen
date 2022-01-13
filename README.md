@@ -5,7 +5,7 @@ As a Nashville Software School Grad, I have obtained both front-end and back-end
 
 - View my [portfolio](https://drive.google.com/file/d/1qWfI4xuKsbo4cv1dX5e9IHmsA8XTs-Q3/view)
 
-- Connect with me on [Linkedin!](https://www.linkedin.com/in/jake-lashenik/)
+- Connect with me on [LinkedIn!](https://www.linkedin.com/in/jake-lashenik/)
 
 ### Here's some frameworks and tools I know, but not limited to:
 

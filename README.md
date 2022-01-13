@@ -1,7 +1,7 @@
 ### Hi, I'm Jake and I am proud to be a ![](https://img.shields.io/badge/-Software%20Developer-lightgrey)! 💻🏌️🎸
 As a Nashville Software School Grad, I have obtained both front-end and back-end skills with a focus in UI/UX and Design.
 
-- Skills I Know:
+### -Skills I Know, but not limited to:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -14,9 +14,9 @@ As a Nashville Software School Grad, I have obtained both front-end and back-end
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I'm currently working client-side Capstone Project.
+- 🌱 We just finished our group project creating a website for our Cohort
+- 👯 I'm currently learning about design systems, responsive design, and 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

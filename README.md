@@ -26,5 +26,5 @@ As a Nashville Software School Grad, I have obtained both front-end and back-end
 - 🤔 I want to learn more about Supabase and Tailwinds for an upcoming project
 - 💬 Ask me about my band or my golf handicap
 - 📫 You can reach me at [jmlashen@gmail.com](@jmlashen@gmail.com)
-- ⚡ Fun fact: I have designed album art for artists including Jason Wade of the band Lifehouse
-checkoout my artwork [here](https://www.instagram.com/jake_diggity/)
+- ⚡ Fun fact: I have designed album art for artists including Jason Wade of the band Lifehouse. 
+checkout some of my artwork [here](https://www.instagram.com/jake_diggity/)

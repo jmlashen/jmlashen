@@ -7,7 +7,7 @@ As a Nashville Software School Grad, I have obtained both front-end and back-end
 
 - Connect with me on [LinkedIn!](https://www.linkedin.com/in/jake-lashenik/)
 
-### Here's some frameworks and tools I know:
+### Here's some of the frameworks and tools I know:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)

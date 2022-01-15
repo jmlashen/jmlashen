@@ -22,7 +22,7 @@ As a Nashville Software School Grad, I have obtained Full-Stack developer skills
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-- 🐝 I'm currently working client-side Capstone Project.
+- 🐝 I'm currently working my client-side Capstone Project.
 - ✅ We just finished our group project creating a website for our Cohort.
 - 👯 I'm currently learning about design systems, responsive design, and best practices for UI/UX. 
 - 🤔 I want to learn more about ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)

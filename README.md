@@ -3,7 +3,7 @@ As a Nashville Software School Grad, I have obtained Full-Stack developer skills
 
 - View my [resume](https://drive.google.com/file/d/1qWfI4xuKsbo4cv1dX5e9IHmsA8XTs-Q3/view) 
 
-- View my [portfolio](https://drive.google.com/file/d/1qWfI4xuKsbo4cv1dX5e9IHmsA8XTs-Q3/view)
+- View my [portfolio](https://jmlashen.github.io/)
 
 - Connect with me on [LinkedIn!](https://www.linkedin.com/in/jake-lashenik/)
 
